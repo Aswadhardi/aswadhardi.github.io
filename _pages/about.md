@@ -7,6 +7,16 @@ redirect_from:
   - /about.html
 ---
 
+---
 
+# 🚧 Website Under Development
 
-A Machine learning and Artificial Intelligences Engineer!
+Thanks for stopping by!
+
+I'm currently working on something exciting.  
+Updates will be posted shortly.
+
+---
+
+**Aswad Hardi**
+

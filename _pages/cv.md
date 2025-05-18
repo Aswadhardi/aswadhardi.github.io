@@ -12,18 +12,16 @@ redirect_from:
 Multidisciplinary professional with proven expertise at the intersection of IT systems optimization, data analytics, and corporate social responsibility. Demonstrated success in designing scalable workflows, leading data-driven programs, and executing sustainable development strategies across both technical and stakeholder-focused domains. Proficient in SQL, Python, Power BI, SharePoint, Excel, REST APIs, and cloud-based tools. Known for automating critical processes, driving engagement across diverse populations, and delivering high-impact digital and community solutions.
 
 Education
-======
+
 * M.S. in Computer Science, East Tennessee State University, May 2026
 * B.S. in Computer Engineering, Kwame Nkrumah University of Science and Technolgy, 2022
 
 ## Academic Work Experience
 
-======
 * Summer 2025 – Present: Research Intern
   * East Tennessee State University
   * Primary Supervisor: Prof Shehenak Shaik
  
-
 * Fall 2024 – Summer 2025: Graduate Assistant – Multicultural Center
 
   * East Tennessee State University
@@ -41,37 +39,28 @@ Education
   * Supervisor: Esq. Edward Aryee
 
 * IT Analyst (Automation & Dashboard Projects), Nov 2020 - Nov 2022:
- * Pecan Energies
-  * Duties included: 
-    * Spearheaded migration of internal workflows to SharePoint and Azure, maintaining zero downtime and improving access for 50+ users.
-    * Built ETL scripts in Python to consolidate procurement and asset datasets, feeding into live Power BI reports used by cross-functional teams.
-    * Designed automation flows for inventory and procurement lifecycle, reducing manual work hours by 30%.
-    * Maintained and documented APIs for internal knowledge systems, facilitating quick access and onboarding.
-  * Supervisor: Mrs. Keziah Antwi
-
----
+   * Pecan Energies
+    * Duties included: 
+      * Spearheaded migration of internal workflows to SharePoint and Azure, maintaining zero downtime and improving access for 50+ users.
+      * Built ETL scripts in Python to consolidate procurement and asset datasets, feeding into live Power BI reports used by cross-functional teams.
+      * Designed automation flows for inventory and procurement lifecycle, reducing manual work hours by 30%.
+      * Maintained and documented APIs for internal knowledge systems, facilitating quick access and onboarding.
+    * Supervisor: Mrs. Keziah Antwi
 
 ## Skills
-
-======
-
 * **Data Analysis & BI Tools**
-
   * Power BI, Excel (Pivot Tables, VLOOKUP, formulas), SQL (joins, CTEs, subqueries)
   * Dashboard creation and data storytelling
 
 * **Programming & ML Techniques**
-
   * Python, Pandas, NumPy, Scikit-learn, SpaCy
   * Forecasting, time-series analysis, unsupervised learning, LLMs (e.g., GPT)
 
 * **NLP & AI Applications**
-
   * Text classification, lemmatization, tokenization
   * ESG sentiment extraction, greenwashing detection
 
 * **Soft Skills**
-
   * Strong written & verbal communication
   * Cross-functional collaboration
   * Project scoping and independent research

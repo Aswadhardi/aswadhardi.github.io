@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 
-Welcome to my Personal website! 
+ Aswad Hardi's Personal website! 
 ======
-My name is Aswad Hardi. A Machine learning and Artificial Intelligences Engineer!
+A Machine learning and Artificial Intelligences Engineer!
 
 
 Site-wide configuration

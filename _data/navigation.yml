@@ -10,7 +10,10 @@
 main:
   - title: "Publications"
     url: /publications/
-
+    
+  - title: "Shelf"
+    url: /shelf/
+    
   - title: "Talks"
     url: /talks/    
 

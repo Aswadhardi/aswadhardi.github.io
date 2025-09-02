@@ -2,21 +2,16 @@
 permalink: /
 title: " Aswad Hardi's Personal website! "
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
----
+# Welcome
 
-# 🚧 Website Under Development
+I'm Aswad Hardi, an engineer exploring how data-driven methods can shape better decisions.
+My research interests span **Operations Research**, **Decision Making**, **Artificial Intelligence**,
+**Machine Learning**, and **Sustainability**.
 
 Thanks for stopping by!
-
-I'm currently working on something exciting.  
-Updates will be posted shortly.
-
----
-
-**Aswad Hardi**
 

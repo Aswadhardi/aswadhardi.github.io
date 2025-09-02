@@ -50,10 +50,9 @@ html_escape_table = {
     }
 
 def html_escape(text):
-    if type(text) is str:
-        return "".join(html_escape_table.get(c,c) for c in text)
-    else:
-        return "False"
+    if isinstance(text, str):
+        return "".join(html_escape_table.get(c, c) for c in text)
+    return ""
 
 
 # ## Creating the markdown files
